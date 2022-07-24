@@ -19,3 +19,4 @@ def fun_1():
         time.sleep(3)
     
 fun_1()
+#try 
